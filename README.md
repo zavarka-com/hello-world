@@ -1,4 +1,4 @@
 # hello-world
-The first project a young developer
+The first project of a young developer
 Hi humans!
-The better code will be here!
+
